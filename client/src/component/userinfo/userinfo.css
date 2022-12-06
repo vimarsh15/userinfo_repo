@@ -1,0 +1,16 @@
+.form {
+   display: flex;
+
+
+
+   justify-content: center;
+   margin-top: 70px;
+}
+
+
+.form_content {
+    height: auto;
+   
+    width: auto;
+    /* border: 1px solid black; */
+}
